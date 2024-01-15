@@ -1,4 +1,5 @@
-## Hi there 👋
+## Distributed Multimedia System Laboratory, Konkuk University, Seoul, Korea
+건국대학교 분산시스템연구실
 
 <!--
 
